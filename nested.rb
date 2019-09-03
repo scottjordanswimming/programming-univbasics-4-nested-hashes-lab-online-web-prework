@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-returns programmer_hash[:grace]
+return programmer_hash[:grace_hopper][:known_for]
 
 end
 
